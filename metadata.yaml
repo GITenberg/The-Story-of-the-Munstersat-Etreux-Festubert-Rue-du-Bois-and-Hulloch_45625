@@ -1,0 +1,29 @@
+_repo: The-Story-of-the-Munstersat-Etreux-Festubert-Rue-du-Bois-and-Hulloch_45625
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45625-h/images/i_book_cover.jpg
+creator:
+  author:
+    agent_name: Rickard, Jessie Louisa Moore
+    alias: Rickard, Mrs. Victor
+    birthdate: 1879
+    deathdate: 1963
+    gutenberg_agent_id: '43389'
+    url: http://www.gutenberg.org/2009/agents/43389
+description: ''
+gutenberg_issued: '2014-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45625'
+  lccn: '19013494'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcsh 'Great Britain. Army. Royal Munster Fusiliers'
+title: The Story of the Munsters at Etreux, Festubert, Rue du Bois and Hulloch
+url: http://www.gutenberg.org/ebooks/45625
