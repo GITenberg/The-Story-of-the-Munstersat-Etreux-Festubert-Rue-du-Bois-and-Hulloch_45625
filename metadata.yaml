@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43389'
     url: http://www.gutenberg.org/2009/agents/43389
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45625#The-Story-of-the-Munstersat-Etreux-Festubert-Rue-du-Bois-and-Hulloch
 gutenberg_issued: '2014-05-10'
 gutenberg_type: Text
 identifiers:
